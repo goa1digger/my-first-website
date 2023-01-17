@@ -1,0 +1,7 @@
+echo "#my-first-website" >> README.md
+git init
+git add . or git add README.md (only readme.md file mean kore)
+git -m "first commit"
+git brach -M main
+git remote add origin http//github.com/goa1digger/my-first-website.git
+git push -u origin main
